@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+body {
+    font-family: 'Inter', sans-serif;
+}
+.glowing-button {
+    background-image: linear-gradient(to right, #8B5CF6, #7C3AED);
+    transition: all 0.3s ease;
+box-shadow: 0 4px 15px rgba(139, 92, 246, 0.4);}
+.glowing-button:hover {
+    box-shadow: 0 6px 20px rgba(139, 92, 246, 0.6);
+    transform: translateY(-2px);
+}
