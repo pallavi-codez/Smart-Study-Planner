@@ -35,9 +35,9 @@ The application is self-contained in a single file and requires **no server or d
    ```bash
    git clone https://github.com/pallavi-codez/Smart-Study-Planner
 
-Open index.html in your browser.
+2. Open index.html in your browser.
 
-Start adding tasks and tracking your studies!
+3. Start adding tasks and tracking your studies!
 
 ## 🔗 Links
 
